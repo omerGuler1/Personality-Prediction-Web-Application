@@ -1,0 +1,35 @@
+ESTJ - The Supervisor - Excellent administrators, unsurpassed at managing things - or people.
+ENTJ - The Commander - Bold, imaginative and strong-willed leaders, always finding a way - or making one.
+ESFJ - The Provider - Extraordinarily caring, social and popular people, always eager to help.
+ENFJ - The Giver - Charismatic and inspiring leaders, able to mesmerize their listeners.
+ISTJ - The Inspector - Practical and fact-minded individuals, whose reliability cannot be doubted.
+ISFJ - The Nurturer - Very dedicated and warm protectors, always ready to defend their loved ones.
+INTJ - The Mastermind - Imaginative and strategic thinkers, with a plan for everything.
+INFJ - The Counselor - Quiet and mystical, yet very inspiring and tireless idealists.
+ESTP - The Doer - Smart, energetic and very perceptive people, who truly enjoy living on the edge.
+ESFP - The Performer - Spontaneous, energetic and enthusiastic entertainers - life is never boring around them.
+ENTP - The Visionary - Smart and curious thinkers who cannot resist an intellectual challenge.
+ENFP - The Champion - Enthusiastic, creative and sociable free spirits, who can always find a reason to smile.
+ISTP - The Craftsman - Bold and practical experimenters, masters of all kinds of tools.
+ISFP - The Composer - Flexible and charming artists, always ready to explore and experience something new.
+INTP - The Thinker - Innovative inventors with an unquenchable thirst for knowledge.
+INFP - The Idealist - Poetic, kind and altruistic people, always eager to help a good cause.
+
+Mapping followed in the dataset
+
+0	ESTJ
+1	ENTJ
+2	ESFJ
+3	ENFJ
+4	ISTJ
+5	ISFJ
+6	INTJ
+7	INFJ
+8	ESTP
+9	ESFP
+10	ENTP
+11	ENFP
+12	ISTP
+13	ISFP
+14	INTP
+15	INFP
