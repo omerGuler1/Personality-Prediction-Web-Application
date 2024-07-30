@@ -43,4 +43,4 @@ Terminal 3: Start the Streamlit Frontend
 $ streamlit run frontend/app.py 
 
 
-![website](<img width="1009" alt="Screenshot 2024-07-30 at 09 51 43" src="https://github.com/user-attachments/assets/dd589975-8d88-440a-9ad6-df9a0b00c1a6">)
+!(<img width="1009" alt="Screenshot 2024-07-30 at 09 51 43" src="https://github.com/user-attachments/assets/dd589975-8d88-440a-9ad6-df9a0b00c1a6">)
