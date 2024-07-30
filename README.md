@@ -42,9 +42,8 @@ Terminal 3: Start the Streamlit Frontend
 
 $ streamlit run frontend/app.py 
 
-#### Website
+#### Website:
 <img width="1009" alt="Screenshot 2024-07-30 at 09 51 43" src="https://github.com/user-attachments/assets/dd589975-8d88-440a-9ad6-df9a0b00c1a6">
 
-##### Prediction
-<<img width="757" alt="Screenshot 2024-07-30 at 09 56 36" src="https://github.com/user-attachments/assets/2d8da1e3-467e-4558-88be-006d297f7a53">
->
+##### Prediction:
+<img width="757" alt="Screenshot 2024-07-30 at 09 56 36" src="https://github.com/user-attachments/assets/2d8da1e3-467e-4558-88be-006d297f7a53">
