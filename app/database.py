@@ -12,7 +12,7 @@ from sqlmodel import create_engine, SQLModel, Session
 load_dotenv()
 
 # DB_URL = DB_URL = os.getenv("DB_URL")
-DB_URL = "mysql+pymysql://root:!Fani06!@localhost:3306/persons"
+DB_URL = "mysql+pymysql://<username>:<password>@localhost:3306/persons"
 engine = create_engine(DB_URL,echo=True)
 SessionLocal = sessionmaker(autocommit=False,autoflush=False, bind=engine)
 
