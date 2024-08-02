@@ -40,7 +40,7 @@ feature_names_60 = joblib.load('data/feature_names.pkl')
 model_20 = joblib.load('data/knn_model2.pkl')
 scaler_20 = joblib.load('data/scaler2.pkl')
 feature_names_20 = joblib.load('data/feature_names2.pkl')
-
+feature_selector = joblib.load('data/feature_selector2.pkl') # you should run the ml.ipynb to create feature_selector2.pkl 
 
 
 
@@ -77,6 +77,10 @@ async def predict(request: PredictRequest, db: Session = Depends(get_db)):
 
         # Ensure the DataFrame has the correct column names
         input_df = input_df.reindex(columns=feature_names, fill_value=0)
+
+        # Transform new data using the saved feature selector
+        input_df = feature_selector.transform(input_df)
+
         
         # Normalize the data
         input_data_normalized = scaler.transform(input_df)
